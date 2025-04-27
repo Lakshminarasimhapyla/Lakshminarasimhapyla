@@ -1,26 +1,89 @@
-<h1 align="center">Hi 👋, I'm Pyla Lakshmi Narasimha</h1>
-<h3 align="center">A passionate Machine Learning enthusiastic from India</h3>
+# 👋 Hi, I'm Pyla Lakshmi Narasimha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshminarasimhapyla&label=Profile%20views&color=0e75b6&style=flat" alt="lakshminarasimhapyla" /> </p>
+### A passionate Full-Stack Developer | Data Analyst | Machine Learning Enthusiast from India 🚀
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshminarasimhapyla" alt="lakshminarasimhapyla" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning with python,**
-
-- 📫 How to reach me **lakshminarasimha8096@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lakshmi narasimha paila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi narasimha paila" height="30" width="40" /></a>
-<a href="https://instagram.com/lakshmi_narasimha_paila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshmi_narasimha_paila" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pyla lakshmi narasimha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pyla lakshmi narasimha" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshminarasimhapyla&label=Profile%20views&color=0e75b6&style=flat" alt="lakshminarasimhapyla" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshminarasimhapyla&show_icons=true&locale=en&layout=compact" alt="lakshminarasimhapyla" /></p>
+🔭 **Current Focus:**
+- 🌱 Learning **Machine Learning** with Python and **Deep Learning**.
+- 🌱 Exploring **Full-Stack Development** using **React.js** and **Java (Spring Boot)** for backend.
+- 🌱 Building **Data-Driven Solutions** with **Python**, **SQL**, and **Power BI**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshminarasimhapyla&show_icons=true&locale=en" alt="lakshminarasimhapyla" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshminarasimhapyla&" alt="lakshminarasimhapyla" /></p>
+🚀 **Goals:**
+- 🚀 Becoming a proficient **Full-Stack Developer** with **Java** as backend and **React.js** as frontend.
+- 🚀 Developing **AI-powered** applications and contributing to **open-source projects**.
+- 🚀 Gaining expertise in **Cloud Technologies** and **DevOps**.
+
+---
+
+💻 **Skills & Technologies:**
+
+- **Programming Languages**: Java, Python, SQL, HTML, CSS, C
+- **Web Development**: React.js, Node.js, Express, HTML5, CSS3
+- **Machine Learning**: Scikit-Learn, TensorFlow, Pandas
+- **Databases**: MySQL, Oracle
+- **Tools & Technologies**: Power BI, Git, Docker, AWS, Firebase
+- **Cloud Computing**: Oracle Cloud Infrastructure
+
+---
+
+🔗 **Connect with Me:**
+- [LinkedIn](https://linkedin.com/in/lakshminarasimhapyla)
+- [GitHub](https://github.com/lakshminarasimhapyla)
+- [LeetCode](https://leetcode.com/pyla-lakshminarasimhapyla)
+- [Instagram](https://instagram.com/lakshmi_narasimha_paila)
+- Email: lakshminarasimha8096@gmail.com
+
+---
+
+📝 **Recent Projects:**
+- **Snake Game**: A fun Java-based project with a focus on algorithms and data structures.
+- **Voice-Activated AI Assistant**: Built using **Google Generative AI** and **Python**.
+- **Machine Learning Projects**: Implementing various ML algorithms like **Linear Regression**, **Decision Trees**, and **SVM** using **Scikit-learn**.
+
+---
+
+🌟 **Achievements:**
+- **TCS NQT for TCS Prime – Cracked**
+- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**
+- **ACM Member** with certifications in **Java**, **Python**, **SQL**, and **e-business**.
+
+---
+
+📊 **GitHub Stats:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshminarasimhapyla&show_icons=true&locale=en)
+
+📊 **Top Languages:**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lakshminarasimhapyla&show_icons=true&locale=en&layout=compact)
+
+🔥 **GitHub Streak:**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshminarasimhapyla)
+
+---
+
+⚡ **Fun Facts:**
+- 🎮 **Chess** enthusiast and an active **volleyball** player.
+- 🎶 Music is my escape. Always plugged into a good playlist.
+- 🚀 Open to new **opportunities** in **AI** and **Software Engineering**.
+
+---
+
+📍 **Location**: India 🌍
+
+---
+
+## 🎯 **My Career Goals**
+- 🚀 Become a **Full-Stack Developer** with **Java** as the backend and **React.js** for frontend development.
+- 🚀 Contribute to open-source projects and **AI-powered applications**.
+- 🚀 Gain experience in **Cloud Computing**, **DevOps**, and **AI technologies**.
+
+---
+
+### Let's Build Amazing Things Together! 🚀
+
